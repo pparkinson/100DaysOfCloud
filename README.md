@@ -15,19 +15,19 @@
 Hello Everyone, I'm Phillip Parkinson and I currently work as a Techncial Consultant at SAP in one of the Cloud ERP consulting teams.
 My background is technical, mostly platform based and almost always implementing some or the other SAP software.
 
-I've dabbled a bit in AWS and GCP but I wanted to build strong skills in one of the Cloud providers. I like what Azure has to offer and SAP and Microsoft have continued collaboration so Azure it was. There's a lot that Azure has to offer so I'll focus on the following topics over the next 100 days:
-- SAP on Azure
-- Azure IoT
-- Azure Data related topics
+I've dabbled a bit in AWS and GCP but I wanted to build strong skills in one of the Cloud providers. I like what Azure has to offer and SAP and Microsoft have continued collaboration, so Azure it was. There's a lot that Azure has to offer so I'll focus on the following topics over the next 100 days:
+-> SAP on Azure
+-> Azure IoT
+-> Azure Data related topics
 
-SAP on Azure is essential for me to understand better based on my work, while Azure IoT and the data related topics that Azure covers are keen interests of mine.
+SAP on Azure is essential for me to understand based on my work, while Azure IoT and the data related topics that Azure covers are keen interests of mine.
 
 By the end of the challenge the aim is to have a much deeper understanding of the services that Azure offers and how to use them to develop solutions with.
 I'd also like to continue gaining Azure certifications as a way to focus my learning time so over the next 100 days I plan on completing the AZ-220 (Azure IoT), DP-203 (Azure Data Engineering) and AZ-120 (Azure for SAP Workloads). That looks like a lot but that's the aim for now :-)
 
 - ✍️[Link to my Twitter @PhillParkinson](https://twitter.com/PhillParkinson)
-- ✍️[Link to my LinkedIn](https://www.linkedin.com/in/phillipparkinson)
-- ✍️[Link to my Blog](https://phillipparkinson.co.uk)
+- ✍️[Link to my LinkedIn - phillipparkinson](https://www.linkedin.com/in/phillipparkinson)
+- ✍️[Link to my Blog - phillipparkinson.co.uk](https://phillipparkinson.co.uk)
 
 ## Stepping out the door
 
