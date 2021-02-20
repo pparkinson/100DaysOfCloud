@@ -1,8 +1,5 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Phillip Parkinson 100DaysOfCloud[6/100]
 
-# New post title here
+✍️ Seeing as I started my 100DaysOfCloud journey with training I hadnt had a chance to complete the organising work, getting Github and all the daily logging sorted. Today I finally got a chance to do all of this.
 
-## Introduction
-
-✍️ 
+Tomorrow it's back to learning and hopefully some time to create a project.
