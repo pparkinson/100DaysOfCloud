@@ -25,13 +25,13 @@ SAP on Azure is essential for me to understand better based on my work, while Az
 By the end of the challenge the aim is to have a much deeper understanding of the services that Azure offers and how to use them to develop solutions with.
 I'd also like to continue gaining Azure certifications as a way to focus my learning time so over the next 100 days I plan on completing the AZ-220 (Azure IoT), DP-203 (Azure Data Engineering) and AZ-120 (Azure for SAP Workloads). That looks like a lot but that's the aim for now :-)
 
-- Link to my Twitter (https://twitter.com/PhillParkinson)
+- [Link to my Twitter] (https://twitter.com/PhillParkinson)
 - Link to my LinkedIn (https://www.linkedin.com/in/phillipparkinson)
 - Link to my Blog (https://phillipparkinson.co.uk)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > Day 1 of DP-200 training (Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Day 1 of DP-200 training] (Journey/001/Readme.md)
 - [ ] ☁️ 2 > Day 2 of DP-200 training (Journey/002/Readme.md)
 - [ ] ☁️ 3 > Day 3 of DP-200 training (Journey/003/Readme.md)
 - [ ] ☁️ 4 > Day 1 of DP-201 training (Journey/004/Readme.md)
