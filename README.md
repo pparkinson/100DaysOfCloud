@@ -10,29 +10,33 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## Phillip's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello Everyone, I'm Phillip Parkinson and I currently work as a Techncial Consultant at SAP in one of the Cloud ERP consulting teams.
+My background is technical, mostly platform based and almost always implementing some or the other SAP software.
 
-[✍️ Tell us why you started this challenge]
+I've dabbled a bit in AWS and GCP but I wanted to build strong skills in one of the Cloud providers. I like what Azure has to offer and SAP and Microsoft have continued collaboration so Azure it was. There's a lot that Azure has to offer so I'll focus on the following topics over the next 100 days:
+- SAP on Azure
+- Azure IoT
+- Azure Data related topics
 
-[✍️ Tell us where you want to be at the end of the challenge]
+SAP on Azure is essential for me to understand better based on my work, while Azure IoT and the data related topics that Azure covers are keen interests of mine.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+By the end of the challenge the aim is to have a much deeper understanding of the services that Azure offers and how to use them to develop solutions with.
+I'd also like to continue gaining Azure certifications as a way to focus my learning time so over the next 100 days I plan on completing the AZ-220 (Azure IoT), DP-203 (Azure Data Engineering) and AZ-120 (Azure for SAP Workloads). That looks like a lot but that's the aim for now :-)
+
+- Link to my Twitter (https://twitter.com/PhillParkinson)
+- Link to my LinkedIn (https://www.linkedin.com/in/phillipparkinson)
+- Link to my Blog (https://phillipparkinson.co.uk)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 1 > Day 1 of DP-200 training (Journey/001/Readme.md)
+- [ ] ☁️ 2 > Day 2 of DP-200 training (Journey/002/Readme.md)
+- [ ] ☁️ 3 > Day 3 of DP-200 training (Journey/003/Readme.md)
+- [ ] ☁️ 4 > Day 1 of DP-201 training (Journey/004/Readme.md)
+- [ ] ☁️ 5 > Day 2 of DP-201 training (Journey/005/Readme.md)
+- [ ] ☁️ 6 > Getting Organised (Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
